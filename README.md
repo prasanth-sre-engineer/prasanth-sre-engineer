@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Manu Durga Prasanth 👋
 
-<!--
-**prasanth-sre-engineer/prasanth-sre-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 SRE & Cloud Monitoring Engineer based in Hyderabad
+📊 Specializing in Observability, Incident Analysis & Cloud Infrastructure
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills
+Grafana | Prometheus | Splunk | Dynatrace | Linux | Bash
+AWS | Azure | GCP | Terraform | Ansible | Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Projects
+- 
+
+## 📫 Connect With Me
+LinkedIn: your-linkedin-url## Hi there 👋
+
+
