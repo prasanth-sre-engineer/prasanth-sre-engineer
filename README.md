@@ -11,6 +11,6 @@ AWS | Azure | GCP | Terraform | Ansible | Docker
 - 
 
 ## 📫 Connect With Me
-LinkedIn: your-linkedin-url## Hi there 👋
+LinkedIn: 
 
 
